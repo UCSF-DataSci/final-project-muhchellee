@@ -1,0 +1,8 @@
+Bio
+numpy
+random
+typing
+matplotlib.pyplot
+sklearn.metrics
+seaborn
+pandas
